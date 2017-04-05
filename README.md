@@ -23,7 +23,7 @@ This script requires **Inkscape** to do the real conversion. Please install **In
 
 HOW-TO install 'inkscape' by Homebrew. 
 
-    `brew install caskformula/caskformula/inkscape`
+    brew install caskformula/caskformula/inkscape
 ### Note
 
 - Brew installation of 'Inkscape' might take 20 min for downloading and building, so please be patient.
